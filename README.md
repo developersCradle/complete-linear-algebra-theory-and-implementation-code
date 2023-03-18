@@ -23,4 +23,11 @@ Insert certificate here when completed -->
 ## Progress
 - [ ] Section 01 - 
 - [ ] Section 02 - 
-- [ ] [Section 03](#)  - Vectors
+- [ ] [Section 03](https://github.com/developersCradle/complete-linear-algebra-theory-and-implementation-code/tree/main/Section%203)  - Vectors
+- [ ] Section 04 -
+- [ ] Section 05 -
+- [ ] [Section 06](https://github.com/developersCradle/complete-linear-algebra-theory-and-implementation-code/tree/main/Section%206) - Matrix rank
+- todo more when time
+
+- Todo katso noi tehtävät pythonilla ja mathlabilla
+- lissää quizzes??? pohdi

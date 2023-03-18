@@ -4,6 +4,9 @@ Matrix rank
 
 # What I Learned
 
+
+### Chapter 62. Rank: concept, terms, and application
+
 - Terminolagy `r` or `rank(A)`
     - Non-negative integer (0,1,2,3 ...) 
         - Connected to dimensionality of information contained in matrix
@@ -16,35 +19,33 @@ Matrix rank
 
 <img src="formalDefinationOfRank.jpg" alt="alt text" width="400"/>
 
-
-- Rank is concept of whole matrix, not connected to spesific **columns** of matrix or **rows** of matrix
+- **Rank** tai aste
+- **Rank** is concept of whole matrix, not connected to spesific **columns** of matrix or **rows** of matrix
     - `rank(C(A))` does not exist
     - `rank(R(A))`
     does not exist
         - Instead use `rank(A)`, one rank of matrix!
 
-
 - Some terminology
 
 <img src="rankTerminology.JPG" alt="alt text" width="500"/>
 
-
 <img src="rankTerminology2.JPG" alt="alt text" width="500"/>
-
 
 <img src="dimensionalityOfInformation.JPG" alt="alt text" width="400"/>
 
 
-- Geometrycally speaking, plotting each column as  vector into 2d plane. We can see that other columns are not providing any additional unique information so **RANK** is **two**
-
-
+- Geometrically speaking, plotting each column as vector into 2d plane. We can see that other columns are not providing any additional unique information so **RANK** is **two**
+    - We could express all these point using **two** vectors
 
 <img src="maxiumRankOfmatrix2.JPG" alt="alt text" width="400"/>
 
 - We can plot this 2x3 matrix in 2-dimensional plane as seen in **1.**
-- Rows are in R^3
+
+
+- Plotting this into **R^3**
     - **Rank** could be different if we plot this using rows, not the case, but want to illustrate
-- As you can see from point **2.** plane plotted in 3-dimension as such. Its still 2-dimensional sub space plane inside 3-dimensions
+- As you can see from point **2.** plane plotted in 3-dimension as such. Its still **2-dimensional sub space** plane inside 3-dimensions
     - This would still give uss **Rank** of two, coz its property of an matrix
 
 <img src="oneDefinationForMatrixRank.JPG" alt="alt text" width="400"/>
@@ -60,8 +61,12 @@ Matrix rank
         - Used to determine how much information is contained in multivariant dataset
         - Data compression and so on
 
+### Chapter 63. Computing rank: theory and practice
+
+
+
 
 
 ## Some additional sources
 
-- [Link 1](https://www.youtube.com/watch?v=k-8yJ7BMgVA&list=PLvtqelkvsw7F9-Y-dDhKwiAAIeTJjfULd&index=8)
+- [Rank](https://www.youtube.com/watch?v=uQhTuRlWMxw)
