@@ -7,7 +7,7 @@ Matrix rank
 
 ### Chapter 62. Rank: concept, terms, and application
 
-- Terminolagy `r` or `rank(A)`
+- Terminology `r` or `rank(A)`
     - Non-negative integer (0,1,2,3 ...) 
         - Connected to dimensionality of information contained in matrix
 
@@ -20,7 +20,7 @@ Matrix rank
 <img src="formalDefinationOfRank.jpg" alt="alt text" width="400"/>
 
 - **Rank** tai aste
-- **Rank** is concept of whole matrix, not connected to spesific **columns** of matrix or **rows** of matrix
+- **Rank** is concept of whole matrix, not connected to specific **columns** of matrix or **rows** of matrix
     - `rank(C(A))` does not exist
     - `rank(R(A))`
     does not exist
@@ -35,7 +35,7 @@ Matrix rank
 <img src="dimensionalityOfInformation.JPG" alt="alt text" width="400"/>
 
 
-- Geometrically speaking, plotting each column as vector into 2d plane. We can see that other columns are not providing any additional unique information so **RANK** is **two**
+- Geometrically speaking, plotting each column as vector into 2d plane. We can see that other columns are not providing any additional unique information, so **RANK** is **two**
     - We could express all these point using **two** vectors
 
 <img src="maxiumRankOfmatrix2.JPG" alt="alt text" width="400"/>
@@ -45,8 +45,8 @@ Matrix rank
 
 - Plotting this into **R^3**
     - **Rank** could be different if we plot this using rows, not the case, but want to illustrate
-- As you can see from point **2.** plane plotted in 3-dimension as such. Its still **2-dimensional sub space** plane inside 3-dimensions
-    - This would still give uss **Rank** of two, coz its property of an matrix
+- As you can see from point **2.** Plane plotted in 3-dimension as such. It's still **2-dimensional subspace** plane inside 3-dimensions
+    - This would still give us **Rank** of two, coz its property of an matrix
 
 <img src="oneDefinationForMatrixRank.JPG" alt="alt text" width="400"/>
 
