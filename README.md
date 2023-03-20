@@ -26,7 +26,10 @@ Insert certificate here when completed -->
 - [ ] [Section 03](https://github.com/developersCradle/complete-linear-algebra-theory-and-implementation-code/tree/main/Section%203)  - Vectors
 - [ ] Section 04 -
 - [ ] Section 05 -
-- [ ] [Section 06](https://github.com/developersCradle/complete-linear-algebra-theory-and-implementation-code/tree/main/Section%206) - Matrix rank
+- [ ] [Section 06](https://github.com/developersCradle/complete-linear-algebra-theory-and-implementation-code/tree/main/Section%206) 
+- [ ] Section 07 -
+
+- Matrix rank
 - todo more when time
 
 - Todo katso noi tehtävät pythonilla ja mathlabilla
