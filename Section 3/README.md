@@ -4,6 +4,70 @@ Vectors
 
 # What I Learned
 
+
+### Chapter 21. Vectors with complex numbers
+
+<img src="primerOnComplex.JPG" alt="alt text" width="500"/>
+
+- 1. Name comes **(imag)** form imaginary operator, which in turn comes from this magic number, so **i** is symbol for this madness. `i = sqr(-1)` or 
+
+<img src="primerOnComplexImportant.JPG" alt="alt text" width="500"/>
+
+- They are important since in engineering, applied math its easier/faster or more efficient to do operations if we didn't use Complex numbers.
+
+<img src="imaginaryNumber.JPG" alt="alt text" width="500"/>
+
+- 1. Single Complex number. Has:
+    - `2` real part
+    - `3i` in imaginary part
+- Complex number contains lot more information
+    - Example they have:
+        - 2. **Distance/Magnitude** away from origin of complex plane
+        - 3. **Angle** of complex number
+- These can be extracted using trigonometry
+
+<img src="ComplexNumberBelongTo.JPG" alt="alt text" width="500"/>
+
+- 1. Because complex numbers are more complex, they are not inside set of real numbers, they are inside **C**
+
+
+<img src="operatingComplexNumbers.JPG" alt="alt text" width="500"/>
+
+- Addition of complex numbers are different
+
+<img src="dangerPointingComplexNumbers.JPG" alt="alt text" width="500"/>
+
+- Complex vectors can be tricky to work, **1.** Both are complex numbers, later is missing real part, but still is complex number
+
+- **Hermitian transpose** (hermitiivinen) is used for complex numbers or complex vectors
+
+<img src="dotProductBetweenComplexVectors.JPG" alt="alt text" width="500"/>
+
+
+### Chapter 22. Hermitian transpose (a.k.a. conjugate transpose)
+
+
+<img src="complexConjugate.JPG" alt="alt text" width="500"/>
+
+- Simple operation, flip the sign of complex number **1.**, not real number 
+    - 2. Geometric interpretation
+
+
+<img src="HermitianTranspose.JPG" alt="alt text" width="500"/>
+
+- Conjugate transpose, or Hermitian transpose
+    - 1. Indicated by letter **H** or **'*'** 
+    - 2. Simply transpose, with flip of imaginary part sign
+
+<img src="whyNeedHermitianTranspose.JPG" alt="alt text" width="500"/>
+
+- 1. Checking magnitude of this vector, with normal transpose
+- 2. Hermitian transpose flips the sign
+
+(todo palaa tähän kun aikaa 8:00 mathlab, python code)
+
+- When working with complex number, remember to use hermitian transpose and hermitian multiplication
+
 ### Chapter 25. Dimension
 
 <img src="dimensions.JPG" alt="alt text" width="500"/>
