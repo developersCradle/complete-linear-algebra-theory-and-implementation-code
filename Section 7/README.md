@@ -70,6 +70,30 @@ Matrix spaces
 
 <img src="relationBetweenRankAndNullSpace.JPG" alt="alt text" width="500"/>
 
+1. Matrix with empty **null space**
+    - Will have linearly independent columns (lineaarisesti riippumaton tai vapaa)
+2. Matrix has dependently set
+    - Will have **null space**
+
+3. Has two null space vectors, we could pick not only these base vectors
+
+<img src="additionalDefinationForNullSpace.JPG" alt="alt text" width="500"/>
+
+- Null Space operations 
+
+<img src="NullSpaceDramaticMeaning.JPG" alt="alt text" width="500"/>
+
+- You can think null space, once you get in other action will be futile
+
+<img src="NullSpaceGeometricMeaning.JPG" alt="alt text" width="500"/>
+
+- 1. When **V** is not contained in null space, you can move around
+
+- 2. v is contained inside null space
+    - 3. Once operation with null space is done, will get zero vector
+- We can use null space in Eigen Decomposition
+
+- Left-null and right-null todo heikki perhdy näihin eri avaruuksiin
 
 ## Some additional sources
 
