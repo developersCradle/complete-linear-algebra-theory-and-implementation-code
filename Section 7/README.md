@@ -21,6 +21,7 @@ Matrix spaces
 
 - Official definition for Column Space
     - 1. Set of all vectors which can be retrieved from matrix
+    - Suomeksi Sarakkaiden virttämä aliavaruus
 
 <img src="isContained.JPG" alt="alt text" width="300"/>
 
@@ -59,11 +60,12 @@ Matrix spaces
 
 - Official definition goes like such
     - `A:n nulliteetti (nollaantumisluku) on dim N(A).`
-<img src="officalDefinationNullspace.JPG" alt="alt text" width="300"/>
+
+<img src="officalDefinationNullspace.JPG" alt="alt text" width="400"/>
 
 - Null space is not just one vector, its is entire subspace
 
-<img src="nullSpaceIsSubSpace.JPG" alt="alt text" width="300"/>
+<img src="nullSpaceIsSubSpace.JPG" alt="alt text" width="400"/>
 
 - 1. We use scalar with base vector to present null space
 
